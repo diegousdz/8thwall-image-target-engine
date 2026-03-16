@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/upcard_luminance.jpg",
+  "metadata": null,
+  "name": "upcard",
+  "type": "FLAT",
+  "properties": {
+    "left": 0,
+    "top": 0,
+    "width": 990,
+    "height": 1320,
+    "isRotated": false,
+    "originalWidth": 990,
+    "originalHeight": 1320
+  },
+  "resources": {
+    "originalImage": "upcard_original.jpg",
+    "croppedImage": "upcard_cropped.jpg",
+    "thumbnailImage": "upcard_thumbnail.jpg",
+    "luminanceImage": "upcard_luminance.jpg"
+  },
+  "created": 1773612381559,
+  "updated": 1773612381559
+}
